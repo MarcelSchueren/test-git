@@ -1,3 +1,4 @@
 Projekt initialisiert.
 Version 2.0
 Bitte hier nichts aendern!
+Hallo hier war Christoph!
